@@ -1,7 +1,7 @@
 - 👋 HI! I'm Kadir Efe YAZILI
 - 🖥️ I'm a student of Management Information Systems
 - 📈 I’m interested in AI,Data Science,Python,C#
-- 📫 reach me kadirefeyazili.5277@gmail.com
+- 📫 reach me kadirefeyazili@outlook.com 
 
 <h3 align="left">My Socials:</h3>
 <p align="left">
