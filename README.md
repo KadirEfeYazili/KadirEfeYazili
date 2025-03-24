@@ -12,9 +12,13 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-<img src="https://pngimg.com/uploads/mysql/mysql_PNG19.png" alt="mysql" width="40" height="40"/> </a> 
+<img src="https://www.svgrepo.com/show/303251/mysql-logo.svg" alt="mysql" width="60" height="60"/> </a> 
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/> </a> 
   <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer">
-<img src="https://www.vikingsoftware.com/wp-content/uploads/2024/02/C.png" alt="c-sharp" width="40" height="40"/> 
+<img src="https://www.vikingsoftware.com/wp-content/uploads/2024/02/C.png" alt="c-sharp" width="50" height="50"/> 
+  <a href="https://www.jetbrains.com/pycharm/" target="_blank" rel="noreferrer">
+<img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/pycharm-icon.png" alt="pycharm" width="50" height="50"/> 
 </a> </p>
+
+
