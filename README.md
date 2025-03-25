@@ -1,4 +1,4 @@
-# 🙋‍♂️ HI! I'm Kadir Efe YAZILI
+# 🙋🏻‍♂️ HI! I'm Kadir Efe YAZILI
 
 - 🖥️ I'm a student of Management Information Systems
 - 📈 I’m interested in AI,Data Science,Python,C#
